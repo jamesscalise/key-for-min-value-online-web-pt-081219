@@ -13,6 +13,7 @@ def key_for_min_value(name_hash)
     else
       mKey = key
       mValue = value
+    end
   }
   mKey
 end
