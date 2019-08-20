@@ -10,6 +10,9 @@ def key_for_min_value(name_hash)
         mKey = key
         mValue = value
       end
-    end
+    else
+      mKey = key
+      mValue = value
   }
+  mKey
 end
